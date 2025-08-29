@@ -1,3 +1,3 @@
 # selection_checker
 
-A new Flutter project.
+Helps checking what selections that you have made for Flutter & Friends.
